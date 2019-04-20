@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(254): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(318): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(379): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(384): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(389): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(417): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(438): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(445): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\junli\c++\cmplxsys530\optimal-donor-coordination\main.cpp(451): warning C4018: '<': signed/unsigned mismatch
+  Project.vcxproj -> C:\cygwin64\home\junli\C++\CMPLXSYS530\Optimal-Donor-Coordination\Debug\Project.exe

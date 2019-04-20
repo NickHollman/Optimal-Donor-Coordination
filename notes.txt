@@ -1,0 +1,1 @@
+find a way to run it 20 times and record the average 
